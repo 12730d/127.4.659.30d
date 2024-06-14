@@ -7,7 +7,9 @@ You can request the decryption key: "127.30d.pastor976@slmail.me"
 
 ### team
 
-*  https://mega.nz/file/1PEjzTCZ
+*  https://mega.nz/file/1PEjzTCZ | Size 1.85G
+
+# It contains
 
 | practical | completion |
 | ------- | ---------- |
